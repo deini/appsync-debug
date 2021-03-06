@@ -1,0 +1,8 @@
+{
+  "name": "@project-01/lambda",
+  "version": "0.1.0",
+  "dependencies": {
+    "aws-cdk": "1.92.0",
+    "dynamodb-toolbox": "^0.3.3"
+  }
+}
